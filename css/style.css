@@ -1,16 +1,21 @@
 .navbar {
-    padding: .5rem 1rem;
-    padding-top: 0rem;
-    padding-right: 1rem;
-    padding-bottom: 0rem;
-    padding-left: 1rem;
+padding: .5rem 1rem;
+padding-top: 0rem;
+padding-right: 1rem;
+padding-bottom: 0rem;
+padding-left: 1rem;
 }
 
 #logo {
-  height: 75px;
+height: 75px;
 }
 
 .nav-item:hover,
 .logo:hover {
-  cursor: pointer;
+cursor: pointer;
+}
+
+
+.carousel-item {
+    height: calc(100vh - 80px)
 }
