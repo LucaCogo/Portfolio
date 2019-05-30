@@ -10,18 +10,7 @@
   height: 75px;
 }
 
-.hamburger {
-    padding: 15px 15px;
-    display: inline-block;
-    cursor: pointer;
-    transition-property: opacity, filter;
-    transition-duration: 0.15s;
-    transition-timing-function: linear;
-    font: inherit;
-    color: white;
-    text-transform: none;
-    background-color: white;
-    border: 0;
-    margin: 0;
-    overflow: visible;
+.nav-item:hover,
+.logo:hover {
+  cursor: pointer;
 }
