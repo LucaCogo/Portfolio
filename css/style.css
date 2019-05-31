@@ -19,3 +19,13 @@ cursor: pointer;
 .carousel-item {
     height: calc(100vh - 80px)
 }
+
+body {
+    font-family: "Raleway", sans-serif;
+
+}
+
+
+html {
+  font-family: "Raleway", sans-serif;
+}
