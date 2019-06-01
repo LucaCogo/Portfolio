@@ -11,7 +11,8 @@ height: 75px;
 }
 
 .nav-item:hover,
-.logo:hover {
+.logo:hover,
+#uni-ref:hover {
 cursor: pointer;
 }
 
