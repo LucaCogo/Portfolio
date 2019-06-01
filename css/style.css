@@ -39,7 +39,6 @@ html {
     background-attachment: fixed;
     width: 100%;
     height: calc(100vh - 80px);
-    min-height: 720px;
     display: table;
     position: relative;
     text-align: center;
