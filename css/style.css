@@ -87,8 +87,12 @@ html {
 }
 
 .contact-btn {
-  padding-left: 25px;
-  padding-right: 25px;
+  padding-left: 10px;
+  padding-right: 10px;
   height: 50px;
   width: auto;
+}
+
+.footer .nav-item {
+  display: inline-block;
 }
