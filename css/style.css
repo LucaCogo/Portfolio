@@ -13,23 +13,26 @@ margin: 15px;
 
 .nav-item:hover,
 .logo:hover,
-#uni-ref:hover {
+#uni-ref:hover,
+.contact-btn:hover{
 cursor: pointer;
 }
 
 
 body {
     font-family: "Raleway", sans-serif;
-
+    background-color: black;
+    color: white;
 }
 
 html {
   font-family: "Raleway", sans-serif;
 }
 
-#Resume {
-  background-color: black;
-  color: white;
+#About,
+#Works {
+  background-color: white;
+  color: black;
 }
 
 
@@ -76,4 +79,16 @@ html {
   font-size: 72px;
   font-weight: bolder;
   color: white;
+}
+
+
+.footer {
+  background-color: black;
+}
+
+.contact-btn {
+  padding-left: 25px;
+  padding-right: 25px;
+  height: 50px;
+  width: auto;
 }
